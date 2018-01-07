@@ -1,0 +1,36 @@
+#firstSlide{
+    margin-top: 20%;
+}
+#systemImage{
+    width: 200px;
+    height: 200px;
+}
+#prEducationImage{
+    width: 450px;
+    height: 350px;
+}
+.headerLink{
+    color: white;
+    text-decoration: none;
+}
+#gcseLink{
+    color: white;
+}
+#futureImage{
+    width: 400px;
+    height: 250px;
+}
+#cambridge{
+    width: 200px;
+    height: 130px;
+}
+#teachersImage{
+    width: 550px;
+    height: 400px;
+}
+#factsHeader{
+    font-size: 120px;
+}
+.headerMove{
+    margin-top: 15% !important
+}
